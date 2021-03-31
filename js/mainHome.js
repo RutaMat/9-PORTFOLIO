@@ -1,9 +1,29 @@
 // IMPORT
-// hero
-// main
-// footer
+/* header */
+/* hero */
+/* clients */
+/* services */
+/* about company */
+/* hire us */
+/* achievements */
+/* promo video */
+/* case studies */
+/* testimonials */
+/* blog */
+/* contacts */
+/* footer */
 
-// header
-// services
-// achievements
-// footer
+// FUNKCIJU PANAUDOJIMAS
+/* header */
+/* hero */
+/* clients */
+/* services */
+/* about company */
+/* hire us */
+/* achievements */
+/* promo video */
+/* case studies */
+/* testimonials */
+/* blog */
+/* contacts */
+/* footer */

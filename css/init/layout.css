@@ -3,3 +3,8 @@
     width: 100%;
 
 }
+.container > .row {
+    display: inline-block;
+    width: 100%;
+    background-color: yellowgreen;
+}

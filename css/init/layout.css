@@ -1,10 +1,60 @@
 .container {
     display: inline-block;
     width: 100%;
+    padding: 20px;
 
 }
-.container > .row {
+.container >.row {
     display: inline-block;
     width: 100%;
-    background-color: yellowgreen;
+    background-color: yellow;
 }
+.container > .row > .row-1 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-2 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-3 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-4 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-5 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-6 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-7 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-8 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-9 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-10 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-11 {
+    display: inline-block;
+    width: 100%;
+}
+.container > .row > .row-12 {
+    display: inline-block;
+    width: 100%;
+}
+

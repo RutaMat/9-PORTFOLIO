@@ -9,6 +9,7 @@
 @import './components/button.css';
 @import './components/footer.css';
 @import './components/header.css';
+
 /* CUSTOM STILIUS SEKCIJOMS */
 /* header */
 /* hero */
@@ -21,9 +22,4 @@
 /* testimonials */
 /* blog */
 /* contacts */
-.contact-us .btn {
-  padding-left: 60px;
-  padding-right: 60px;
-}
-
 /* footer */
